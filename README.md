@@ -1,2 +1,2 @@
-# big-wheel
-A pseudorandom number generator
+# Big Wheel
+A pseudorandom number generator I made.
